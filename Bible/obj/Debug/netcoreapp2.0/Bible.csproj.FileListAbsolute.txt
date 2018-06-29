@@ -9,3 +9,14 @@
 /Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.AssemblyInfo.cs
 /Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.dll
 /Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.pdb
+/Users/Collin/Documents/GitHub/Bible/Bible/bin/Debug/netcoreapp2.0/Bible.deps.json
+/Users/Collin/Documents/GitHub/Bible/Bible/bin/Debug/netcoreapp2.0/Bible.runtimeconfig.json
+/Users/Collin/Documents/GitHub/Bible/Bible/bin/Debug/netcoreapp2.0/Bible.runtimeconfig.dev.json
+/Users/Collin/Documents/GitHub/Bible/Bible/bin/Debug/netcoreapp2.0/Bible.dll
+/Users/Collin/Documents/GitHub/Bible/Bible/bin/Debug/netcoreapp2.0/Bible.pdb
+/Users/Collin/Documents/GitHub/Bible/Bible/obj/Debug/netcoreapp2.0/Bible.csprojResolveAssemblyReference.cache
+/Users/Collin/Documents/GitHub/Bible/Bible/obj/Debug/netcoreapp2.0/Bible.csproj.CoreCompileInputs.cache
+/Users/Collin/Documents/GitHub/Bible/Bible/obj/Debug/netcoreapp2.0/Bible.AssemblyInfoInputs.cache
+/Users/Collin/Documents/GitHub/Bible/Bible/obj/Debug/netcoreapp2.0/Bible.AssemblyInfo.cs
+/Users/Collin/Documents/GitHub/Bible/Bible/obj/Debug/netcoreapp2.0/Bible.dll
+/Users/Collin/Documents/GitHub/Bible/Bible/obj/Debug/netcoreapp2.0/Bible.pdb

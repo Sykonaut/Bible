@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Collin/Projects/BibleTest/BibleTest/Bible.csproj",
+      "projectUniqueName": "/Users/Collin/Documents/GitHub/Bible/Bible/Bible.csproj",
       "projectName": "Bible",
-      "projectPath": "/Users/Collin/Projects/BibleTest/BibleTest/Bible.csproj",
+      "projectPath": "/Users/Collin/Documents/GitHub/Bible/Bible/Bible.csproj",
       "packagesPath": "/Users/Collin/.nuget/packages/",
-      "outputPath": "/Users/Collin/Projects/BibleTest/BibleTest/obj",
+      "outputPath": "/Users/Collin/Documents/GitHub/Bible/Bible/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
