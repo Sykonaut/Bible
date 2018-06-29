@@ -1,0 +1,11 @@
+/Users/Collin/Projects/BibleTest/BibleTest/bin/Debug/netcoreapp2.0/Bible.deps.json
+/Users/Collin/Projects/BibleTest/BibleTest/bin/Debug/netcoreapp2.0/Bible.runtimeconfig.json
+/Users/Collin/Projects/BibleTest/BibleTest/bin/Debug/netcoreapp2.0/Bible.runtimeconfig.dev.json
+/Users/Collin/Projects/BibleTest/BibleTest/bin/Debug/netcoreapp2.0/Bible.dll
+/Users/Collin/Projects/BibleTest/BibleTest/bin/Debug/netcoreapp2.0/Bible.pdb
+/Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.csprojResolveAssemblyReference.cache
+/Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.csproj.CoreCompileInputs.cache
+/Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.AssemblyInfoInputs.cache
+/Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.AssemblyInfo.cs
+/Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.dll
+/Users/Collin/Projects/BibleTest/BibleTest/obj/Debug/netcoreapp2.0/Bible.pdb
